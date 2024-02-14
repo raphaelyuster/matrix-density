@@ -1,0 +1,9 @@
+Number of constraints: 35
+Number of variables: 666
+Number of blocks (including slack block): 4
+Original SDP result: 13.12787686092457
+Lowest diagonal element in L: 39
+Epsilon: 20680218 / 1000000000000 = 2.0680218e-05
+Rounded SDP result: 13127875344081 / 1000000000000 = 13.127875344081
+18 - Rounded SDP result + epsilon: 18 - 13127854663863 / 1000000000000 = 4.872145336137001
+Final result divided by M=18: 0.2706747...
